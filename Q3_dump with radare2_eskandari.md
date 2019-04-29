@@ -31,17 +31,17 @@ Analyze all with aaa command then seek to main function
 Now, we show the execution of the program step by step. let's see the main function: 
 pdf @ sym.main (Print Disassemble Function)
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(5).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(5).jpg)
   
 As you see, it shows the hexadecimal code and the assembly code.
  
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(6).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(6).jpg)
  
   
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(7).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(7).jpg)
  
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(8).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(8).jpg)
  
 
 ![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(9).jpg)
