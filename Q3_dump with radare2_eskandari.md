@@ -9,37 +9,37 @@ Write a hello world c program.
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(1).JPG)
  
  
-The return value of main function are missed!!, but it is not imortant, since gcc will add it. =
-Compile the program
+The return value of main function are missed!!, but it is not imortant, since gcc will add it before
+Compiling the program
  
 
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(2).JPG)
+ 
+ 
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(3).JPG)
  
 Execute radar 2 from the reverse engineering tools in Kali.
 Radare2 is an open source set of tools for reverse-engineering and analysis of binary files (among other things, for example debugging).
 let's disassemble the hello program by running the following command:
  
-![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(3).JPG)
- 
-At this point, analyze the whole code: aa (Analyze All)
-Analyze all with aaa command then seek to main function
- 
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(4).JPG)
  
+ At this point, analyze the whole code: aa (Analyze All)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(5).JPG)
+
+Analyze all with aaa command then seek to main function
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(6).JPG)
+
  The memory address changed to 0x00001135 (start of main function)
 
 Now, we show the execution of the program step by step. let's see the main function: 
 pdf @ sym.main (Print Disassemble Function)
 
-![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(5).JPG)
-  
+  ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(7).JPG)
+
 As you see, it shows the hexadecimal code and the assembly code.
  
-![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(6).JPG)
- 
-  
-![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(7).JPG)
- 
+
 
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(8).JPG)
  
