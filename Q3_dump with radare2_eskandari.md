@@ -44,36 +44,36 @@ As you see, it shows the hexadecimal code and the assembly code.
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(8).jpg)
  
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(9).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(9).jpg)
  
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(10).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(10).jpg)
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(11).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(11).jpg)
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(12).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(12).jpg)
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(13).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(13).jpg)
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(14).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(14).jpg)
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(15).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(15).jpg)
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(16).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(16).jpg)
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(17).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(17).jpg)
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(18).jpg) 
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(18).jpg) 
   
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(19).jpg) 
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(19).jpg) 
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(20).jpg) 
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(20).jpg) 
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(21).jpg) 
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(21).jpg) 
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(22).jpg) 
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(22).jpg) 
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(23).jpg) 
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(23).jpg) 
 
  
  
