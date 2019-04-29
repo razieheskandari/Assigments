@@ -23,30 +23,25 @@ Radare2 is an open source set of tools for reverse-engineering and analysis of b
 let's disassemble the hello program by running the following command:
  
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(4).JPG)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(5).JPG)
  
  At this point, analyze the whole code: aa (Analyze All)
-![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(5).JPG)
-
-Analyze all with aaa command then seek to main function
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(6).JPG)
+Analyze all with aaa command then seek to main function
+
+  ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(7).JPG)
 
  The memory address changed to 0x00001135 (start of main function)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(8).JPG)
 
 Now, we show the execution of the program step by step. let's see the main function: 
 pdf @ sym.main (Print Disassemble Function)
 
-  ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(7).JPG)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(9).JPG)
+
 
 As you see, it shows the hexadecimal code and the assembly code.
  
-
-
-![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(8).JPG)
- 
-
-![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(9).JPG)
- 
-
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(10).JPG)
 
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(11).JPG)
