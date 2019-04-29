@@ -29,7 +29,7 @@ let's disassemble the hello program by running the following command:
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(6).JPG)
 Analyze all with aaa command then seek to main function
 
-  ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(7).JPG)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(7).JPG)
 
  The memory address changed to 0x00001135 (start of main function)
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(8).JPG)
@@ -48,7 +48,7 @@ As you see, it shows the hexadecimal code and the assembly code.
 
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(12).JPG)
 
-![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(13).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(13).JPG)
 
 ![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3(14).JPG)
 
