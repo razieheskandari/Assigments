@@ -6,7 +6,7 @@ Write a hello-world C program and explain how we can dump its binary code with r
 
 Write a hello world c program. 
 
-![alt text] (https://github.com/razieheskandari/Screenshots/blob/master/Q3(1).jpg)
+![alt text](https://github.com/razieheskandari/Screenshots/blob/master/Q3 (1).JPG)
  
  
 The return value of main function are missed!!, but it is not imortant, since gcc will add it. =
